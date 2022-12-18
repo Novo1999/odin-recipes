@@ -1,1 +1,2 @@
 # odin-recipes
+This is the first odin project.I learned how to make headings and lists and how to add links and add images to my webpage and this project is probably gonna be the culmination of all that I've learned till now.This project is about making a recipes website.It has a main index page and links to other dishes.
