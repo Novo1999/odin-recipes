@@ -1,0 +1,31 @@
+.head{
+    background-image: url("bg1.webp");
+    background-position: center;
+    background-size: 838px 600px;
+    background-repeat: no-repeat;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    font-family: "Times New Roman"
+}
+.pasta{
+    background-color: yellow;
+    color:red;
+}
+.list{
+    font-size: 40px;
+}
+#burger{
+    background-color: burlywood;
+    color: green;
+}
+#cheese{
+    background-color: goldenrod;
+    color:blue;
+}
+a{
+    color: black;
+}
+a:hover{
+    color:blue;
+}
