@@ -12,6 +12,7 @@ body{
 #bur{
     font-style: oblique;
     color: brown;
+    font-family: "Brush Script MT";
 }
 .center{
     display: block;
