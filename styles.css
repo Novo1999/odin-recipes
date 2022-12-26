@@ -1,54 +1,58 @@
-.head{
-    /*background-image: url("bg.jpg");*/
-    background-position: center;
-    background-size: 830px 400px;
-    background-repeat: no-repeat;
-    color: white;
-    font-size: 100px;
-    text-align: center;
-    font-family: "Times New Roman";
-    border: 0.5em solid;
+
+.center{
+    margin-left: 300px;
+    padding: 50px 50px;
+    height: 800px;
+    width:65%;
+    display: inline;
 }
+#odin{
+    font-size: 100px;
+    margin-top: -830px;
+    margin-left: 720px;
+    font-family: "Bebas Neue",monospace;
+    color: beige;
+    padding: 20px;
+    display: block;
+    }
 .pasta{
-    background-color: yellow;
+    background-color: rgb(255,255,0);
     color:red;
     border: 1px;
     border-style: dashed;
+    display: inline-block;
+    padding: 1px 100px;
+    margin-left: 770px;
+    margin-right: 750px;
+    margin-top: -130px;
+
+    
 }
 .list{
     font-size: 30px;
 }
 #burger{
-    background-color: burlywood;
+    background-color: rgba(222, 184, 135,0.5);
     color: green;
     border: 1px;
     border-style: dotted;
+    display: inline-block;
+    padding: 1px 87.5px;
+    margin: auto 770px;
 }
 #cheese{
-    background-color: goldenrod;
+    background-color: rgba(218, 165, 32,0.5);
     color:blue;
     border: 1px;
     border-style: dashed;
+    display: inline-block;
+    padding: 1px 54.5px;
+    margin: auto 770px;
 }
+
 a{
     color: black;
 }
 a:hover{
     color:blue;
-}
-.center{
-    height: auto;
-    width: 98%;
-    margin-top: -1000px;
-    margin-bottom: 200px;
-    margin-left: 0.4in;
-    display: inline;
-}
-#odin{
-    font-size: 100px;
-    margin-top: -430px;
-    margin-left: 710px;
-    font-family: "Bebas Neue",monospace;
-    color: beige;
-    padding: 20px;
 }
