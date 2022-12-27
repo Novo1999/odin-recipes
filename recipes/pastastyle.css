@@ -11,16 +11,33 @@ body{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 30%;
+    width: 20%;
     border: 5px solid purple;
+    border-radius: 20px;
+}
+.move{
+    background-color: chocolate;
+    border-radius: 15px;
+    font-style: oblique;
+    display: inline;
+    padding: 10px;
+    text-align: center;
+    margin: 850px;
+}
+.step{
+    background-color: chocolate;
+    border-radius: 15px;
+    font-style: oblique;
+    display: inline;
+    padding: 10px;
+    margin-right: 700px;
 }
 .gen{
     background-color: chocolate;
     font-style: oblique;
-    display: block;
+    display: inline;
     padding: 10px;
     border-radius: 15px;
-    text-align: center;
 }
 .gen2{
     background-color: moccasin;
